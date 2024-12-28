@@ -1,0 +1,15 @@
+D:\CSharp\HelpGits\obj\Debug\net8.0\HelpGits.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\HelpGits\obj\Debug\net8.0\HelpGits.AssemblyInfoInputs.cache
+D:\CSharp\HelpGits\obj\Debug\net8.0\HelpGits.AssemblyInfo.cs
+D:\CSharp\HelpGits\obj\Debug\net8.0\HelpGits.csproj.CoreCompileInputs.cache
+D:\CSharp\HelpGits\obj\Debug\net8.0\HelpGits.sourcelink.json
+D:\CSharp\HelpGits\bin\Debug\net8.0\HelpGits.exe
+D:\CSharp\HelpGits\bin\Debug\net8.0\HelpGits.deps.json
+D:\CSharp\HelpGits\bin\Debug\net8.0\HelpGits.runtimeconfig.json
+D:\CSharp\HelpGits\bin\Debug\net8.0\HelpGits.dll
+D:\CSharp\HelpGits\bin\Debug\net8.0\HelpGits.pdb
+D:\CSharp\HelpGits\obj\Debug\net8.0\HelpGits.dll
+D:\CSharp\HelpGits\obj\Debug\net8.0\refint\HelpGits.dll
+D:\CSharp\HelpGits\obj\Debug\net8.0\HelpGits.pdb
+D:\CSharp\HelpGits\obj\Debug\net8.0\HelpGits.genruntimeconfig.cache
+D:\CSharp\HelpGits\obj\Debug\net8.0\ref\HelpGits.dll
